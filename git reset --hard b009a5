@@ -1,0 +1,58 @@
+[33mcommit 01296af2f9f92857cca21237cfb10a6db30c7f5d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Tue Jul 21 12:47:58 2020 +0500
+
+    update for reet
+
+[33mcommit beb83a2275e03006f466f9cfcf9357021d8a2a0f[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Tue Jul 21 12:45:49 2020 +0500
+
+    added file f4.txt
+
+[33mcommit b10f2a5c624ddb95ff3d0496939cbfeb8eb9a2f0[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Tue Jul 21 12:33:25 2020 +0500
+
+    Revert "updated 4.0"
+    
+    This reverts commit b009a5ed6924979c3e7c8dc137602eb5c15c0bbf.
+
+[33mcommit b009a5ed6924979c3e7c8dc137602eb5c15c0bbf[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Tue Jul 21 12:32:19 2020 +0500
+
+    updated 4.0
+
+[33mcommit 968b88342bfef1d788e21628e70b26083390aec1[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Mon Jul 20 21:16:41 2020 +0500
+
+    added
+
+[33mcommit 66a30a2b27c9a240c8ba4b1d0adc69d4fed991fb[m
+Merge: ce37f9f 0abcf4c
+Author: Zain Hadi Ansari <Zainhadi@users.noreply.github.com>
+Date:   Mon Jul 20 15:25:03 2020 +0500
+
+    Merge pull request #2 from Zainhadi/dev_zain
+    
+    updated 2
+
+[33mcommit 0abcf4c2c2cac89f48446e60d068f538c47f69fe[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Mon Jul 20 14:07:27 2020 +0500
+
+    updated 2
+
+[33mcommit ce37f9fa0990003ce5fe32ce1262a7260e90b3a3[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: Zain Hadi <zain.hadi26@gmail.com>
+Date:   Mon Jul 20 14:03:02 2020 +0500
+
+    updated
+
+[33mcommit 3f77b2500a1f5858f41c6a77d7ffd9998416fcd8[m
+Author: Zain Hadi Ansari <Zainhadi@users.noreply.github.com>
+Date:   Mon Jul 20 13:59:47 2020 +0500
+
+    Initial commit
